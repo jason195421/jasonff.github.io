@@ -34,7 +34,7 @@ import { remarkMermaid } from "./src/plugins/remark-mermaid.js";
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://jason195421.github.io/',
-	base: "/",
+	base: "/jasonff.github.io",
 	trailingSlash: "always",
 
 	output: "static",
